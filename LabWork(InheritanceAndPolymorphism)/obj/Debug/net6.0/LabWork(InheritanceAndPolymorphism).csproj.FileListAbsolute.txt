@@ -1,0 +1,14 @@
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\bin\Debug\net6.0\LabWork(InheritanceAndPolymorphism).exe
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\bin\Debug\net6.0\LabWork(InheritanceAndPolymorphism).deps.json
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\bin\Debug\net6.0\LabWork(InheritanceAndPolymorphism).runtimeconfig.json
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\bin\Debug\net6.0\LabWork(InheritanceAndPolymorphism).dll
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\bin\Debug\net6.0\LabWork(InheritanceAndPolymorphism).pdb
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\LabWork(InheritanceAndPolymorphism).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\LabWork(InheritanceAndPolymorphism).AssemblyInfoInputs.cache
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\LabWork(InheritanceAndPolymorphism).AssemblyInfo.cs
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\LabWork(InheritanceAndPolymorphism).csproj.CoreCompileInputs.cache
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\LabWork(InheritanceAndPolymorphism).dll
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\refint\LabWork(InheritanceAndPolymorphism).dll
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\LabWork(InheritanceAndPolymorphism).pdb
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\LabWork(InheritanceAndPolymorphism).genruntimeconfig.cache
+C:\Users\A0080350\Desktop\Lab work\LabWork(InheritanceAndPolymorphism)\LabWork(InheritanceAndPolymorphism)\obj\Debug\net6.0\ref\LabWork(InheritanceAndPolymorphism).dll
